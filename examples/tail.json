@@ -1,0 +1,49 @@
+{
+  "n_events": 500,
+  "n_samples": 768,
+  "dt_us": 0.004,
+  "start_us": 0,
+  "peak_us": 1.6,
+  "amplitude_range": [
+    250.0,
+    700.0
+  ],
+  "source_shape": "asymmetric",
+  "rise_us": 0.13,
+  "fall_us": 0.045,
+  "shape_jitter": 0.08,
+  "time_jitter_us": 0.035,
+  "precursor_fraction": 0.08,
+  "precursor_delay_us": 0.25,
+  "kind": "lowpass",
+  "strength": 0.12,
+  "polarity": -1,
+  "delay_us": 0.024,
+  "kernel_taps": 201,
+  "tau_us": 0.16,
+  "separation_us": 0.045,
+  "frequency_mhz": 8.0,
+  "echo_delay_us": 0.22,
+  "echo_weight": -0.55,
+  "source_noise_rms": 3.0,
+  "target_noise_rms": 5.0,
+  "source_noise_rho": 0.0,
+  "target_noise_rho": 0.0,
+  "target_probability": 0.0,
+  "target_amplitude_range": [
+    20.0,
+    60.0
+  ],
+  "target_time_range_us": [
+    1.1,
+    2.4
+  ],
+  "target_rise_us": 0.012,
+  "target_decay_us": 0.1,
+  "target_locked": false,
+  "target_delay_us": 0.05,
+  "gain_jitter": 0.0,
+  "relative_delay_jitter_us": 0.0,
+  "saturation": null,
+  "seed": 20261116
+}
